@@ -1,6 +1,5 @@
 # Reference
 Anderson, J. R., Bothell, D., Byrne, M. D., Douglass, S., Lebiere, C., & Qin, Y. (2004).
-
 An integrated theory of the mind. Psychological Review, 111(4), 1036–1060. https://doi.org/10.1037/0033-295X.111.4.1036
 
 Baddeley, A. D., & Hitch, G. J. (2007).
